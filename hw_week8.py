@@ -1,7 +1,7 @@
 import random
 
 def hw_week8():
-    win = 0
+win = 0
 losses = 0
 ties = 0
 
